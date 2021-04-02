@@ -189,7 +189,7 @@ sections:
     background_image_position: center top
     background_image_size: cover
     background_image_opacity: 60
-    background_image: images/image1.png
+    background_image: images/background_img.png
 seo:
   title: Stackbit Startup Theme
   description: The preview of the Startup theme
