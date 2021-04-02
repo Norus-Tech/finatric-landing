@@ -188,7 +188,7 @@ sections:
     background_color: none
     background_image_position: center top
     background_image_size: cover
-    background_image_opacity: 10
+    background_image_opacity: 100
     background_image: images/image1.png
 seo:
   title: Stackbit Startup Theme
