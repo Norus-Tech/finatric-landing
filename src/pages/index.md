@@ -73,7 +73,7 @@ sections:
       - content: "Finatric integrates with your existing systems to create a centralized\_ financial platform reducing the time spent working in each individual system.\n\n"
         actions: []
         image_alt: lorem-ipsum
-        media_position: top
+        media_position: right
         media_width: fifty
         align: left
         type: feature
