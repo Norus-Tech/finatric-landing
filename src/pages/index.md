@@ -59,7 +59,7 @@ sections:
         content: >
           **Monitor projects** financial performances and take control of your
           margins
-        content_align: left
+        content_align: center
         image: images/icon-1.svg
         image_alt: Section item 2 icon
         image_position: top
