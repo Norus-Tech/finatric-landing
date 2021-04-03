@@ -99,7 +99,7 @@ seo:
       value: Finatric 
       keyName: property
     - name: 'og:description'
-      value: The preview of the Startup theme
+      value: Make Better Business Decisions
       keyName: property
     - name: 'og:image'
       value: images/feature-1.png
