@@ -29,7 +29,8 @@
             {
                 "label": "Sign Up",
                 "url": "https://app.finatric.com/register",
-                "style": "primary"
+                "style": "primary",
+                "no_follow": true
             }
         ],
         "has_anncmnt": false
