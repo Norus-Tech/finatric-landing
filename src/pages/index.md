@@ -78,7 +78,7 @@ sections:
       Start making better business decisions today!
     actions:
       - label: Try for free
-        url: 'http://app.finatric.com/register'
+        url: 'https://app.finatric.com/register'
         style: primary
     actions_width: fourty
     align: center
