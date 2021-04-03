@@ -23,9 +23,10 @@ sections:
     title: Why use Finatric?
     features:
       - title: Transparency
-        content: >-
-          With Your Goal, you can create a dashboard with data about your
-          activities and track your progress.
+        content: >+
+          Easy to interpret real-time insights into the financial status of your
+          business allowing you make better financial decisions 
+
         actions:
           - label: Learn More
             url: /thank-you
