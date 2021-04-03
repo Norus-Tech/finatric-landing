@@ -19,7 +19,7 @@
 }
 
 .grid-override{
-    padding-left: 23rem;
+    padding-left: 23rem !important;
     padding-right: 23rem;
     	@include media-breakpoint-down(sm) {
 		padding-left: 2rem;
