@@ -65,7 +65,7 @@ sections:
         image_align: center
         image_has_padding: true
         actions_align: center
-    grid_cols: three
+    grid_cols: two
     grid_gap_horiz: small
     grid_gap_vert: small
     enable_cards: true
