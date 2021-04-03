@@ -123,5 +123,6 @@
         ]
     },
     "title": "Stackbit Startup Theme",
-    "domain": "https://royal-aluminum-747a1.netlify.app"
+    "domain": "https://royal-aluminum-747a1.netlify.app",
+    "favicon": "images/favicon.ico"
 }
