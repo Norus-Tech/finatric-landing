@@ -8,7 +8,7 @@ sections:
       - label: Try for free
         url: /pricing
         style: primary
-    image: images/finatric_app.png
+    image: images/amazing-potato.png
     image_alt: Hero section placeholder image
     media_position: bottom
     align: center
