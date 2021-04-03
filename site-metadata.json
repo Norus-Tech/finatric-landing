@@ -54,7 +54,7 @@
         "secondary_nav_title": "Features",
         "secondary_nav_links": [
             {
-                "label": "News",
+                "label": "Features List",
                 "url": "/blog/category/news",
                 "style": "link"
             },
