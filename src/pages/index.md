@@ -33,7 +33,7 @@ sections:
         image: images/undraw_sync_files_xb3r.png
         image_alt: Feature 2 placeholder image
         media_position: left
-        media_width: sixty
+        media_width: fourty
         align: left
     feature_padding_vert: large
     align: center
