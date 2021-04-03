@@ -30,7 +30,6 @@ sections:
           providing tools that business owners can use to run additional
           analysis.
         actions: []
-        image: images/undraw_sync_files_xb3r.png
         image_alt: Feature 2 placeholder image
         media_position: left
         media_width: fourty
