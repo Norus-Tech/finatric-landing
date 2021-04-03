@@ -63,7 +63,7 @@ sections:
         image: images/icon-1.svg
         image_alt: Section item 2 icon
         image_position: top
-        image_align: left
+        image_align: center
         image_has_padding: true
         actions_align: center
     grid_cols: two
