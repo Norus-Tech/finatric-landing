@@ -90,7 +90,7 @@ sections:
     background_image: images/beige-eggplant.gif
 seo:
   title: Finatric
-  description: The preview of the Startup theme
+  description: Finatric 
   extra:
     - name: 'og:type'
       value: website
