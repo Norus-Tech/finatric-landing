@@ -18,7 +18,7 @@ sections:
     background_image_position: center top
     background_image_size: cover
     background_image_opacity: 60
-    background_image: images/wallpaper.svg
+    background_image: images/beige-eggplant.gif
   - type: features_section
     title: About
     features:
