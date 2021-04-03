@@ -23,6 +23,6 @@
     padding-right: 23rem;
     	@include media-breakpoint-down(sm) {
 		padding-left: 2rem;
-		padding-right: $grid-gap / 2;
+		padding-right: 2rem;
 	}
 }
