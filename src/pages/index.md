@@ -8,7 +8,7 @@ sections:
       - label: Try Finatric for free
         url: /pricing
         style: primary
-    image: images/finatric_app_mockup.svg
+    image: images/finatric_app_mockup_1.png
     image_alt: Hero section placeholder image
     media_position: bottom
     align: center
