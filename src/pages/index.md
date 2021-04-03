@@ -65,6 +65,7 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
+        actions_align: center
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: small
