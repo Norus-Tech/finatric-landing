@@ -91,6 +91,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
+        title: Integration
     feature_padding_vert: large
     align: center
     background_color: none
