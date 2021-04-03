@@ -18,7 +18,9 @@
 		background: none;
 	}
 }
-
+.hero{
+    &.cover-img
+}
 .hero__media,
 .item__media {
 	img {
