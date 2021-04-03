@@ -29,8 +29,7 @@ sections:
           key figuresof financial health on a dashboard,and providing tools that
           business owners can use to run additional analysis,&#xA;&#xA;
         actions:
-          - url: /thank-you
-            style: link
+          - style: link
             has_icon: true
             icon: arrow-right
             icon_position: right
