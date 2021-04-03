@@ -18,11 +18,3 @@
 	max-width: container-max-width(medium);
 }
 
-.grid-override{
-    padding-left: 23rem !important;
-    padding-right: 23rem;
-    	@include media-breakpoint-down(sm) {
-		padding-left: 2rem;
-		padding-right: 2rem;
-	}
-}
