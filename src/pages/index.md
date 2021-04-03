@@ -22,8 +22,7 @@ sections:
   - type: features_section
     title: About
     features:
-      - title: Automated Statements
-        content: >
+      - content: >
           ##### Finatric is a cloud-based platform that reduces the time it
           takes service based businesses to makefinancial decisions.Finatric
           achieves this by analyzing financial data from accounting software,
