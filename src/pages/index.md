@@ -8,6 +8,7 @@ sections:
       - label: Try Finatric for free
         url: 'https://app.finatric.com/register'
         style: primary
+        no_follow: true
     image: images/finatric_app_mockup_1.png
     image_alt: Hero section placeholder image
     media_position: bottom
