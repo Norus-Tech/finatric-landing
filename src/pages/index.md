@@ -52,6 +52,7 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
+        actions_align: center
       - title: Projects
         title_align: left
         content: >
