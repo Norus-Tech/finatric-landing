@@ -10,7 +10,7 @@ sections:
         style: primary
     image: images/finattric_app.png
     image_alt: Hero section placeholder image
-    media_position: bottom
+    media_position: top
     align: center
     padding_top: large
     padding_bottom: small
