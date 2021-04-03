@@ -23,11 +23,13 @@ sections:
     title: About
     features:
       - title: Automated Statements
-        content: >+
-          Easily and efficiently pull relevant information from various sources
-          into consolidated reports/statements reducing the time spent analyzing
-          data
-
+        content: >
+          ##### Finatric is a cloud-based platform that reduces the time it
+          takes service based businesses to makefinancial decisions.Finatric
+          achieves this by analyzing financial data from accounting software,
+          displaying key figuresof financial health on a dashboard,and providing
+          tools that business owners can use to run additional
+          analysis,&#xA;&#xA;
         actions:
           - label: Learn More
             url: /thank-you
