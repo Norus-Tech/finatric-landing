@@ -50,7 +50,7 @@ sections:
         image: images/icon-4.svg
         image_alt: Section item 1 icon
         image_position: top
-        image_align: left
+        image_align: center
         image_has_padding: true
         actions_align: center
         image_width: twenty-five
