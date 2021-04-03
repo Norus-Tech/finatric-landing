@@ -80,6 +80,7 @@ sections:
       - label: Try for free
         url: 'https://app.finatric.com/register'
         style: primary
+        no_follow: true
     actions_width: fourty
     align: center
     padding_top: large
