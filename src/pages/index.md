@@ -47,7 +47,7 @@ sections:
           **Measure and monitor** the metrics which matter most to your busines
 
         content_align: left
-        image: images/desktop.png
+        image: images/icon-4.svg
         image_alt: Section item 1 icon
         image_position: top
         image_align: left
