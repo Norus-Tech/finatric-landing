@@ -20,5 +20,7 @@
 
 
 .item_body{
-    &.item_copy
+    &.item_copy{
+        wid
+    }
 }
