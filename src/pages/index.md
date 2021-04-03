@@ -38,7 +38,7 @@ sections:
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: sixty
-      - title: Achieve Your Goals With Your Friends
+      - title: Automated Statements
         content: >+
           Easily and efficiently pull relevant information from various sources
           into consolidated reports/statements reducing the time spent analyzing
