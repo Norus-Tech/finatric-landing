@@ -35,7 +35,7 @@ export default class GridSection extends React.Component {
             	</div>
             	)}
             	{_.get(section, 'grid_items', null) && (
-            	<div className="container grid-">
+            	<div className="container grid-override">
             		<div className={classNames('grid', {'grid-gap-small': grid_gap_x === 'small', 'grid-gap-large': grid_gap_x === 'large'})}>
             			{_.map(_.get(section, 'grid_items', null), (item, item_idx) => (
             				<GridItem key={item_idx} {...this.props} section={section} item={item} />
