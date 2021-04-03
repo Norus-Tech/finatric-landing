@@ -39,21 +39,6 @@ sections:
         image_alt: Feature 2 placeholder image
         media_position: left
         media_width: sixty
-      - title: Cloud Based
-        content: |+
-          Securely access our platform from any device. No installation
-
-        actions:
-          - label: Learn More
-            url: /thank-you
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-        image: images/undraw_version_control_9bpv.png
-        image_alt: Feature 3 placeholder image
-        media_position: right
-        media_width: sixty
       - content: "Finatric integrates with your existing systems to create a centralized\_ financial platform reducing the time spent working in each individual system.\n\n"
         actions: []
         image_alt: lorem-ipsum
