@@ -44,7 +44,7 @@ sections:
       - title: Metrics & KPIs
         title_align: center
         content: >
-          ##### **Measure and monitor** the metrics which matter most to your
+          #### **Measure and monitor** the metrics which matter most to your
           busines
         content_align: center
         image: images/icon-4.svg
