@@ -18,7 +18,6 @@ sections:
     background_image_position: center top
     background_image_size: auto
     background_image_opacity: 60
-    background_image: images/panoramic-ant.png
   - type: features_section
     title: About
     features:
