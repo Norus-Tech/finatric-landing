@@ -35,7 +35,7 @@ sections:
         media_position: left
         media_width: sixty
         align: left
-    feature_padding_vert: large
+    feature_padding_vert: medium
     align: center
     background_color: none
   - type: grid_section
