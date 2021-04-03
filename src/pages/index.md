@@ -38,7 +38,7 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: none
-    padding_top: small
+    padding_top: none
   - type: grid_section
     title: Features
     grid_items:
