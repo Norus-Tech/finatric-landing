@@ -29,11 +29,7 @@ sections:
           displaying key figuresof financial health on a dashboard,and providing
           tools that business owners can use to run additional
           analysis,&#xA;&#xA;
-        actions:
-          - style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         image: images/undraw_sync_files_xb3r.png
         image_alt: Feature 2 placeholder image
         media_position: left
