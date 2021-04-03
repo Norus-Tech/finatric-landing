@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Make Better Business Decisions
-    subtitle: Celebrating daily wins with YourGoal.
+    subtitle: Comprehensive financial metrics for service-basedbusinesses
     actions:
       - label: Try Finatric for free
         url: /pricing
