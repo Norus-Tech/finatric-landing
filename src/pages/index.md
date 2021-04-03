@@ -50,7 +50,7 @@ sections:
         image_alt: Section item 1 icon
         image_position: top
         image_align: center
-        image_has_padding: true
+        image_has_padding: false
         actions_align: center
         image_width: twenty-five
       - title: Projects
