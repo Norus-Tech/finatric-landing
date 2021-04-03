@@ -57,11 +57,6 @@
                 "label": "Features List",
                 "url": "/blog/category/news",
                 "style": "link"
-            },
-            {
-                "label": "Tips",
-                "url": "/blog/category/tips",
-                "style": "link"
             }
         ],
         "has_tertiary_nav": true,
