@@ -18,7 +18,6 @@ sections:
     background_image_position: center top
     background_image_size: cover
     background_image_opacity: 60
-    background_image: images/background_shape.svg
   - type: features_section
     title: About
     features:
