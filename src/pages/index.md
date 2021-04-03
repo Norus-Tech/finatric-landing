@@ -5,7 +5,7 @@ sections:
     title: Helping Businesses Make Better Decisions
     subtitle: Celebrating daily wins with YourGoal.
     actions:
-      - label: Try for free
+      - label: Try Finatric for free
         url: /pricing
         style: primary
     image: images/finattric_app.png
