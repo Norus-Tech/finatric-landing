@@ -83,7 +83,7 @@ sections:
     align: center
     background_color: none
   - type: grid_section
-    title: How it works
+    title: About
     grid_items:
       - title: Connect
         title_align: left
