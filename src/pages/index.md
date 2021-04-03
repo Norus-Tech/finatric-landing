@@ -8,7 +8,7 @@ sections:
       - label: Try Finatric for free
         url: /pricing
         style: primary
-    image: images/marvelous-thyme.svg
+    image: images/magenta-amaranth.png
     image_alt: Hero section placeholder image
     media_position: bottom
     align: center
