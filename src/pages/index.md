@@ -56,9 +56,9 @@ sections:
         media_position: left
         media_width: sixty
       - title: Optimize Your Daily Schedule for Maximum Productivity
-        content: >-
-          With YourGoal you will be more productive and organized. Overcome
-          procrastination and achieve your goals.
+        content: |+
+          Securely access our platform from any device. No installation
+
         actions:
           - label: Learn More
             url: /thank-you
