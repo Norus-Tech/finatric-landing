@@ -90,7 +90,7 @@ sections:
     background_image: images/beige-eggplant.gif
 seo:
   title: Finatric
-  description: Finatric 
+  description: Finatric Make Better Business Decisions
   extra:
     - name: 'og:type'
       value: website
