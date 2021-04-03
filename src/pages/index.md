@@ -78,6 +78,7 @@ sections:
         align: left
         type: feature
         title: Integration
+        image: images/undraw_swipe_options_2e4v.png
     feature_padding_vert: large
     align: center
     background_color: none
