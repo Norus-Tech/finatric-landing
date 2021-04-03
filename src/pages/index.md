@@ -33,7 +33,7 @@ sections:
         image_alt: Feature 2 placeholder image
         media_position: left
         media_width: fourty
-        align: left
+        align: center
     feature_padding_vert: small
     align: center
     background_color: none
@@ -96,7 +96,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Finatric 
+      value: Finatric
       keyName: property
     - name: 'og:description'
       value: Make Better Business Decisions
