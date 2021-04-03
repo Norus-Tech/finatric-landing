@@ -41,7 +41,7 @@ sections:
   - type: grid_section
     title: Features
     grid_items:
-      - title: Connect
+      - title: Metrics & KPIs
         title_align: left
         content: >-
           Goals take time, hard work, perseverance and commitment to achieve it.
