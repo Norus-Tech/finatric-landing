@@ -55,7 +55,7 @@ sections:
         image_alt: Feature 2 placeholder image
         media_position: left
         media_width: sixty
-      - title: Optimize Your Daily Schedule for Maximum Productivity
+      - title: Cloud Based
         content: |+
           Securely access our platform from any device. No installation
 
