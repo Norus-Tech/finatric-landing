@@ -4,9 +4,6 @@
 .grid {
 	@include make-grid();
 }
-.grid-override{
-    width: 40% !important;
-}
 
 .cell,
 [class*="cell-"] {
