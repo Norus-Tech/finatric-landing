@@ -55,7 +55,7 @@ sections:
         actions_align: center
         image_width: twenty-five
       - title: Projects
-        title_align: left
+        title_align: center
         content: >
           **Monitor projects** financial performances and take control of your
           margins
