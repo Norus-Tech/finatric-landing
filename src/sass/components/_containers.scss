@@ -22,7 +22,7 @@
 .item__body{
     &.item__copy{
         &p{
-            width: 1px;
+            width: 1px !important;
         }
     }
 }
