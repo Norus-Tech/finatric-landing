@@ -110,7 +110,7 @@ seo:
     - name: 'twitter:title'
       value: Finatric
     - name: 'twitter:description'
-      value: The preview of the Startup theme
+      value: Make Better Business Decisions
     - name: 'twitter:image'
       value: images/feature-1.png
       relativeUrl: true
