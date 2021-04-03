@@ -2,7 +2,9 @@
 title: Home
 sections:
   - type: hero_section
-    title: Helping Businesses Make Better Decisions
+    title: >-
+      Make Better Business DecisionsMake Better Business Decis,MMake Better
+      Business Decisions
     subtitle: Celebrating daily wins with YourGoal.
     actions:
       - label: Try Finatric for free
