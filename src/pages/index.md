@@ -89,7 +89,7 @@ sections:
     background_image_opacity: 60
     background_image: images/beige-eggplant.gif
 seo:
-  title: Stackbit Startup Theme
+  title: Finatric
   description: The preview of the Startup theme
   extra:
     - name: 'og:type'
