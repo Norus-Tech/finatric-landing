@@ -70,17 +70,7 @@ sections:
         image_alt: Feature 3 placeholder image
         media_position: right
         media_width: sixty
-      - content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+      - content: "Finatric integrates with your existing systems to create a centralized\_ financial platform reducing the time spent working in each individual system.\n\n"
         actions: []
         image_alt: lorem-ipsum
         media_position: top
