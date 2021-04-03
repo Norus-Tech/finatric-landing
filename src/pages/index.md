@@ -76,7 +76,7 @@ sections:
   - type: cta_section
     title: Ready to get started?
     content: |
-      Start making better business decisions today!
+      **Start making better business decisions today!**
     actions:
       - label: Try for free
         url: 'https://app.finatric.com/register'
