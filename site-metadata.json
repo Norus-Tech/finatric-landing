@@ -23,7 +23,7 @@
             },
             {
                 "label": "Log in",
-                "url": "app.finatric.com/login",
+                "url": "https://app.finatric.com/login",
                 "style": "secondary"
             },
             {
