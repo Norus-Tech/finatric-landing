@@ -30,8 +30,7 @@ sections:
           tools that business owners can use to run additional
           analysis,&#xA;&#xA;
         actions:
-          - label: Learn More
-            url: /thank-you
+          - url: /thank-you
             style: link
             has_icon: true
             icon: arrow-right
