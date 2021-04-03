@@ -64,7 +64,7 @@ sections:
         image_align: left
         image_has_padding: true
     grid_cols: two
-    grid_gap_horiz: small
+    grid_gap_horiz: medium
     grid_gap_vert: medium
     enable_cards: true
     align: center
