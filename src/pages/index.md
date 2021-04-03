@@ -54,10 +54,9 @@ sections:
         image_has_padding: true
       - title: Projects
         title_align: left
-        content: >+
-          Monitor projects financial performances and take control of your
+        content: >
+          **Monitor projects** financial performances and take control of your
           margins
-
         content_align: left
         image: images/icon-2.svg
         image_alt: Section item 2 icon
