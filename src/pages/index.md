@@ -35,7 +35,7 @@ sections:
         media_position: left
         media_width: fourty
         align: left
-    feature_padding_vert: large
+    feature_padding_vert: small
     align: center
     background_color: none
     padding_top: none
