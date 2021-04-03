@@ -21,6 +21,8 @@
 
 .item_body{
     &.item_copy{
-        wid
+        &p{
+            width:50%
+        }
     }
 }
