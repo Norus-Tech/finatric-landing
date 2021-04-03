@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Make Better Business Decisions
-    subtitle: Comprehensive financial metrics for service-basedbusinesses
+    subtitle: Comprehensive financial metrics for service-based businesses
     actions:
       - label: Try Finatric for free
         url: /pricing
