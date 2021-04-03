@@ -22,22 +22,6 @@ sections:
   - type: features_section
     title: About
     features:
-      - title: Transparency
-        content: >+
-          Easy to interpret real-time insights into the financial status of your
-          business allowing you make better financial decisions 
-
-        actions:
-          - label: Learn More
-            url: /thank-you
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-        image: images/undraw_Sorting_thoughts_re_fgli.png
-        image_alt: Feature 1 placeholder image
-        media_position: right
-        media_width: sixty
       - title: Automated Statements
         content: >+
           Easily and efficiently pull relevant information from various sources
