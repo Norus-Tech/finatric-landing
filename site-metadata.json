@@ -19,7 +19,8 @@
             {
                 "label": "Features",
                 "url": "#features-section",
-                "style": "link"
+                "style": "link",
+                "no_follow": true
             },
             {
                 "label": "Log in",
