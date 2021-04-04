@@ -60,7 +60,8 @@
             {
                 "label": "Features List",
                 "url": "features-section",
-                "style": "link"
+                "style": "link",
+                "no_follow": true
             }
         ],
         "has_tertiary_nav": true,
