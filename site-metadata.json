@@ -68,7 +68,7 @@
         "tertiary_nav_title": "Legal",
         "tertiary_nav_links": [
             {
-                "label": "End User License Agreement Page",
+                "label": "End User License Agreement",
                 "url": "/end-user-license-agreement",
                 "style": "link"
             },
