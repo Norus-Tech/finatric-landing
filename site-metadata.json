@@ -74,7 +74,7 @@
             },
             {
                 "label": "Privacy Policy",
-                "url": "https://finatric.com/privacy-policy",
+                "url": "/privacy-policy",
                 "style": "link"
             }
         ],
