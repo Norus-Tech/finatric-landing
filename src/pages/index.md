@@ -115,7 +115,7 @@ seo:
     - name: 'twitter:description'
       value: Make Better Business Decisions
     - name: 'twitter:image'
-      value: images/feature-1.png
+      value: /images/Asset%206.png
       relativeUrl: true
 template: advanced
 ---
