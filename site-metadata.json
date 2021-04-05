@@ -58,7 +58,7 @@
         "secondary_nav_title": "Features",
         "secondary_nav_links": [
             {
-                "label": "/",
+                "label": "Features List",
                 "url": "#features-section",
                 "style": "link",
                 "no_follow": true
