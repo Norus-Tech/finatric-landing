@@ -45,7 +45,7 @@
         "primary_nav_links": [
             {
                 "label": "/#About",
-                "url": "/",
+                "url": "/#About",
                 "style": "link",
                 "no_follow": true
             },
