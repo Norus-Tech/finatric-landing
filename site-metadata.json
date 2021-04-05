@@ -13,7 +13,7 @@
         "secondary_nav_links": [
             {
                 "label": "About",
-                "url": "#about-section",
+                "url": "/#about-section",
                 "style": "link",
                 "no_follow": true
             },
