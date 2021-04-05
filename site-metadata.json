@@ -44,7 +44,7 @@
         "primary_nav_title": "Company",
         "primary_nav_links": [
             {
-                "label": "/",
+                "label": "/#",
                 "url": "/",
                 "style": "link",
                 "no_follow": true
