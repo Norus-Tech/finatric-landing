@@ -69,7 +69,7 @@
         "tertiary_nav_links": [
             {
                 "label": "End User License Agreement",
-                "url": "/#/end-user-license-agreement",
+                "url": "/#end-user-license-agreement",
                 "style": "link"
             },
             {
