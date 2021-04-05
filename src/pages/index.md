@@ -105,7 +105,7 @@ seo:
       value: Make Better Business Decisions
       keyName: property
     - name: 'og:image'
-      value: /images/Asset%2013.svg
+      value: /images/Asset%209.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
