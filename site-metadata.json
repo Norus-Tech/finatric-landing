@@ -19,7 +19,7 @@
             },
             {
                 "label": "Features",
-                "url": "#features-section",
+                "url": "/#features-section",
                 "style": "link",
                 "no_follow": true
             },
