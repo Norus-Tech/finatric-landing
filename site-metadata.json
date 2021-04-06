@@ -24,7 +24,7 @@
                 "no_follow": true
             },
             {
-                "label": "How it works",
+                "label": "/#features-section",
                 "url": "#",
                 "style": "link",
                 "has_icon": false,
