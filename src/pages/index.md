@@ -41,9 +41,7 @@ sections:
     padding_top: none
   - title: How it Works
     features:
-      - content: |
-          *
-        actions: []
+      - actions: []
         image_alt: one
         media_position: left
         media_width: thirty-three
