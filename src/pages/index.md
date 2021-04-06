@@ -41,8 +41,7 @@ sections:
     padding_top: none
   - title: How it Works
     features:
-      - title: lorem-ipsum
-        content: >-
+      - content: >-
           ## Lorem ipsum
 
 
