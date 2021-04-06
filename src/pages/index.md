@@ -62,6 +62,7 @@ sections:
         align: left
         type: feature
         title: Sign Up For Free
+        subtitle: Sign Up For Free
     feature_padding_vert: medium
     align: center
     padding_top: medium
