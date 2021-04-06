@@ -61,7 +61,7 @@ sections:
       - actions: []
         image_alt: lorem-ipsum
         media_position: left
-        media_width: sixty
+        media_width: thirty-three
         align: left
         type: feature
         image: images/three(1).png
