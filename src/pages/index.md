@@ -54,7 +54,7 @@ sections:
         image_alt: lorem-ipsum
         media_position: right
         media_width: thirty-three
-        align: right
+        align: center
         type: feature
         image: images/two.png
         content: "### Connect Accounting\_Software\n"
