@@ -55,8 +55,7 @@ sections:
         actions_align: center
         image_width: twenty-five
         subtitle: Metrics & KPIs
-      - title: Projects
-        title_align: center
+      - title_align: center
         content: >
           ###### **Monitor projects** financial performances and take control of
           your margins
