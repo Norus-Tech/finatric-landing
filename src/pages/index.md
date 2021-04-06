@@ -47,7 +47,6 @@ sections:
         media_width: thirty-three
         align: left
         type: feature
-        title: Sign Up For Free
         image: images/one(1).png
         content: |
           ### Sign up for Free
