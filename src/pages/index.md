@@ -57,11 +57,11 @@ sections:
         image_width: twenty-five
       - title_align: center
         content: >
-          Projects
+          Project
 
 
-          **Monitor projects** financial performances and take control of your
-          margins
+          **Create, manage  and monitor project's** financial performance and
+          take control of your margins
         content_align: center
         image: images/icon-1.svg
         image_alt: Section item 2 icon
