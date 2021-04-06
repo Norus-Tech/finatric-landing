@@ -58,7 +58,7 @@ sections:
       - title: Projects
         title_align: center
         content: >
-          #### **Monitor projects** financial performances and take control of
+          ###### **Monitor projects** financial performances and take control of
           your margins
         content_align: center
         image: images/icon-1.svg
