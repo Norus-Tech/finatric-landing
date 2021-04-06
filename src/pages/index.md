@@ -55,7 +55,7 @@ sections:
         actions: []
         image_alt: one
         media_position: left
-        media_width: fifty
+        media_width: thirty-three
         align: left
         type: feature
         title: Sign Up For Free
