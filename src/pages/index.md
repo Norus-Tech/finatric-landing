@@ -53,6 +53,7 @@ sections:
         image_has_padding: true
         actions_align: center
         image_width: twenty-five
+        subtitle: Metrics & KPIs
       - title_align: center
         content: >
           ###### **Monitor projects** financial performances and take control of
