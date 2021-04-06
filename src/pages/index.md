@@ -49,7 +49,7 @@ sections:
         type: feature
         image: images/one(1).png
         content: |
-          # Sign up for Free
+          ### Sign up for Free
       - actions: []
         image_alt: lorem-ipsum
         media_position: right
