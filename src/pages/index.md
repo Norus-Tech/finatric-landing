@@ -57,7 +57,7 @@ sections:
         align: left
         type: feature
         image: images/two.png
-      - title: "View Metrics, \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_                                                   Insights & KPIs"
+      - title: "View Metrics,\_ \_ \_ \_ \_ \_ \_ \_ \_ \_\_ Insights & KPIs"
         actions: []
         image_alt: lorem-ipsum
         media_position: left
