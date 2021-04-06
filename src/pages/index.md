@@ -49,6 +49,8 @@ sections:
         type: feature
         title: Sign Up For Free
         image: images/one(1).png
+        content: |
+          ### Sign up for Free
       - title: "Connect Accounting\_\_\_\_\_\_\_\_\_\_\_\_\_ Software"
         actions: []
         image_alt: lorem-ipsum
