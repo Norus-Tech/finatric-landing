@@ -39,45 +39,6 @@ sections:
     align: center
     background_color: none
     padding_top: none
-  - title: How it Works
-    features:
-      - actions: []
-        image_alt: one
-        media_position: left
-        media_width: thirty-three
-        align: left
-        type: feature
-        image: images/one(1).png
-        content: |
-          ### Sign up for Free
-      - actions: []
-        image_alt: lorem-ipsum
-        media_position: left
-        media_width: thirty-three
-        align: left
-        type: feature
-        image: images/two.png
-        content: "### Connect Accounting\_Software\n"
-      - actions: []
-        image_alt: lorem-ipsum
-        media_position: left
-        media_width: thirty-three
-        align: left
-        type: feature
-        image: images/three(1).png
-        content: |
-          ### View Metrics, Insights & KPIs&#xA;&#xA;
-    feature_padding_vert: medium
-    align: center
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: none
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: features_section
   - type: grid_section
     title: Features
     grid_items:
