@@ -53,7 +53,7 @@ sections:
       - actions: []
         image_alt: lorem-ipsum
         media_position: right
-        media_width: fourty
+        media_width: fifty
         align: right
         type: feature
         image: images/two.png
