@@ -24,17 +24,6 @@
                 "no_follow": true
             },
             {
-                "label": "Log in",
-                "url": "https://app.finatric.com/login",
-                "style": "secondary"
-            },
-            {
-                "label": "Sign Up",
-                "url": "https://app.finatric.com/register",
-                "style": "primary",
-                "no_follow": true
-            },
-            {
                 "label": "lorem-ipsum",
                 "url": "#",
                 "style": "link",
@@ -44,6 +33,17 @@
                 "new_window": false,
                 "no_follow": false,
                 "type": "action"
+            },
+            {
+                "label": "Log in",
+                "url": "https://app.finatric.com/login",
+                "style": "secondary"
+            },
+            {
+                "label": "Sign Up",
+                "url": "https://app.finatric.com/register",
+                "style": "primary",
+                "no_follow": true
             }
         ],
         "has_anncmnt": false
