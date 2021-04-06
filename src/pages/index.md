@@ -120,7 +120,7 @@ sections:
       **Start making better business decisions today!**
     actions:
       - label: Try for free
-        url: 'https://app.finatric.com/register'
+        url: 'https://uadn5queo26.typeform.com/to/UleSxP1h'
         style: primary
         no_follow: true
     actions_width: fourty
