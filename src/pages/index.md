@@ -49,7 +49,7 @@ sections:
         type: feature
         title: Sign Up For Free
         image: images/one(1).png
-      - title: Connect Accounting Software
+      - title: Connect AccountingSoftware
         actions: []
         image_alt: lorem-ipsum
         media_position: right
