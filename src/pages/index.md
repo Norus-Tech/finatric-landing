@@ -65,6 +65,8 @@ sections:
         align: left
         type: feature
         image: images/three(1).png
+        content: |
+          ### View Metrics, Insights & KPIs&#xA;&#xA;
     feature_padding_vert: medium
     align: center
     padding_top: medium
