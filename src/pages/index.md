@@ -57,7 +57,9 @@ sections:
         align: left
         type: feature
         image: images/two.png
-      - title: 'View Metrics, Insights & KPIs'
+      - title: >-
+          View Metrics,                                                   
+          Insights & KPIs
         actions: []
         image_alt: lorem-ipsum
         media_position: top
