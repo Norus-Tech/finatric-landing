@@ -24,17 +24,6 @@
                 "no_follow": true
             },
             {
-                "label": "How It Works",
-                "url": "/#features-section",
-                "style": "link",
-                "has_icon": false,
-                "icon": "arrow-left",
-                "icon_position": "right",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
-            },
-            {
                 "label": "Log in",
                 "url": "https://app.finatric.com/login",
                 "style": "secondary"
