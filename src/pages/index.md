@@ -55,6 +55,7 @@ sections:
         image_has_padding: true
         actions_align: center
         image_width: twenty-five
+        subtitle: Metrics & KPIs
       - title: Projects
         title_align: center
         content: >
