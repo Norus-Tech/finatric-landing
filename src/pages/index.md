@@ -40,7 +40,6 @@ sections:
     background_color: none
     padding_top: none
   - title: How it Works
-    subtitle: lorem-ipsum
     features: []
     feature_padding_vert: medium
     align: center
