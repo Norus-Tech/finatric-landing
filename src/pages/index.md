@@ -63,6 +63,7 @@ sections:
         type: feature
         title: Sign Up For Free
         subtitle: Sign Up For Free
+        image: images/one(1).svg
     feature_padding_vert: medium
     align: center
     padding_top: medium
