@@ -44,7 +44,7 @@ sections:
       - actions: []
         image_alt: one
         media_position: left
-        media_width: sixty
+        media_width: thirty-three
         align: left
         type: feature
         image: images/one(1).png
