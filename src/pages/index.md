@@ -52,7 +52,7 @@ sections:
           ### Sign up for Free
       - actions: []
         image_alt: lorem-ipsum
-        media_position: right
+        media_position: left
         media_width: thirty-three
         align: center
         type: feature
