@@ -48,7 +48,7 @@ sections:
         align: left
         type: feature
         title: Sign Up For Free
-        image: images/one.png
+        image: images/one(1).png
     feature_padding_vert: medium
     align: center
     padding_top: medium
