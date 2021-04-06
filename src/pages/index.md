@@ -93,7 +93,7 @@ sections:
     background_image_size: cover
     background_image_opacity: 60
     background_image: images/beige-eggplant.gif
-  - title: lorem-ipsum
+  - title: How it Works
     subtitle: lorem-ipsum
     features: []
     feature_padding_vert: medium
