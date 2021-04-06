@@ -24,8 +24,8 @@ sections:
     title: About
     features:
       - content: >
-          ###### Finatric is a cloud-based platform that reduces the time it
-          takes service based businesses to make financial decisions. Finatric
+          Finatric is a cloud-based platform that reduces the time it takes
+          service based businesses to make financial decisions. Finatric
           achieves this by analyzing financial data from accounting software,
           displaying key figures of financial health on a dashboard,and
           providing tools that business owners can use to run additional
