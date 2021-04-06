@@ -50,7 +50,6 @@ sections:
         title: Sign Up For Free
         image: images/one(1).png
       - title: lorem-ipsum
-        subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
 
