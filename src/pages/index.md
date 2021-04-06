@@ -50,7 +50,6 @@ sections:
         align: left
         type: feature
         title: Sign Up For Free
-        subtitle: Sign Up For Free
         image: images/rainy-goat.svg
     feature_padding_vert: medium
     align: center
