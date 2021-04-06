@@ -43,7 +43,7 @@ sections:
     features:
       - actions: []
         image_alt: one
-        media_position: right
+        media_position: left
         media_width: thirty-three
         align: left
         type: feature
