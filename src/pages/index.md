@@ -58,7 +58,6 @@ sections:
         type: feature
         image: images/two.png
       - title: lorem-ipsum
-        subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
 
