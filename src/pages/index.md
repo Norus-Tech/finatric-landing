@@ -58,8 +58,7 @@ sections:
         type: feature
         image: images/two.png
         content: "### Connect Accounting\_Software&#xA;&#xA;\n"
-      - title: "View Metrics,\_ \_ \_ \_ \_ \_ \_ \_ \_ \_\_ Insights & KPIs"
-        actions: []
+      - actions: []
         image_alt: lorem-ipsum
         media_position: left
         media_width: fifty
