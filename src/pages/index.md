@@ -42,8 +42,7 @@ sections:
   - type: grid_section
     title: Features
     grid_items:
-      - title: Metrics & KPIs
-        title_align: center
+      - title_align: center
         content: >
           ###### **Measure and monitor** the metrics which matter most to your
           busines
