@@ -6,7 +6,7 @@ sections:
     subtitle: Comprehensive financial metrics for service-based businesses
     actions:
       - label: Try Finatric for free
-        url: 'https://app.finatric.com/register'
+        url: 'https://uadn5queo26.typeform.com/to/UleSxP1h'
         style: primary
         no_follow: true
     image: images/finatric_app_mockup_1.png
