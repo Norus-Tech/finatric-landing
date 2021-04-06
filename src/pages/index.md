@@ -62,7 +62,7 @@ sections:
         image_alt: lorem-ipsum
         media_position: left
         media_width: fifty
-        align: center
+        align: left
         type: feature
         image: images/three(1).png
     feature_padding_vert: medium
