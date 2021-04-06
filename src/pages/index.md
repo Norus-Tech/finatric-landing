@@ -45,7 +45,7 @@ sections:
         image_alt: one
         media_position: left
         media_width: thirty-three
-        align: left
+        align: center
         type: feature
         title: Sign Up For Free
         image: images/one.png
