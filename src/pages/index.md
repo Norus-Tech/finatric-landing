@@ -42,7 +42,6 @@ sections:
   - title: How it Works
     features:
       - title: lorem-ipsum
-        subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
 
